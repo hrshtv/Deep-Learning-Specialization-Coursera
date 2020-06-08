@@ -14,3 +14,4 @@ This repository will house all my submissions, assignments and any related code 
 1. Course 1: [Neural Networks and Deep Learning](Neural-Networks-and-Deep-Learning)
 	- Week 1: No programming assignments
 	- [Week 2](Neural-Networks-and-Deep-Learning/Week-2)
+	- [Week 3](Neural-Networks-and-Deep-Learning/Week-3)
