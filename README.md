@@ -1,5 +1,5 @@
 # Deep Learning Specialization
-  
+
 | Offered by 	|           [deeplearning.ai](https://www.deeplearning.ai/)          	|
 |:----------:	|:------------------------------------------------------------------:	|
 | Instructor 	|      [Andrew Ng](https://www.coursera.org/instructor/andrewng)     	|
@@ -20,4 +20,5 @@ This repository will house all my submissions, assignments and any related code 
 
 ---
 
-2. Course 2: [Improving Deep Neural Networks]()
+2. Course 2: [Improving Deep Neural Networks](Improving-Deep-Neural-Networks)
+   - [Week 1](Improving-Deep-Neural-Networks/Week-1)
