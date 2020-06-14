@@ -24,3 +24,9 @@ This repository will house all my submissions, assignments and any related code 
    - [Week 1](Improving-Deep-Neural-Networks/Week-1)
    - [Week 2](Improving-Deep-Neural-Networks/Week-2)
    - [Week 3](Improving-Deep-Neural-Networks/Week-3)
+   - [Certificate](Improving-Deep-Neural-Networks/Certificate.pdf)
+
+----
+
+
+
