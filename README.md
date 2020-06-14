@@ -22,3 +22,4 @@ This repository will house all my submissions, assignments and any related code 
 
 2. Course 2: [Improving Deep Neural Networks](Improving-Deep-Neural-Networks)
    - [Week 1](Improving-Deep-Neural-Networks/Week-1)
+   - [Week 2](Improving-Deep-Neural-Networks/Week-2)
