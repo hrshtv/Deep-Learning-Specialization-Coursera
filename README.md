@@ -38,5 +38,6 @@ This repository will house all my submissions, assignments and any related code 
 
 4. Course 4: [Convolutional Neural Networks](Convolutional-Neural-Networks)
    - [Week 1](Convolutional-Neural-Networks/Week-1)
+   - [Week 2](Convolutional-Neural-Networks/Week-2)
 
 ---
