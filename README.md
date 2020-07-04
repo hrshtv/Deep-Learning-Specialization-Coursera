@@ -11,7 +11,7 @@ This repository will house all my submissions, assignments and any related code 
 
 ---
 
-1. Course 1: [Neural Networks and Deep Learning](Neural-Networks-and-Deep-Learning)
+1. Course 1: **[Neural Networks and Deep Learning](Neural-Networks-and-Deep-Learning)**
 	- [Week 1](): No programming assignments.
 	- [Week 2](Neural-Networks-and-Deep-Learning/Week-2)
 	- [Week 3](Neural-Networks-and-Deep-Learning/Week-3)
@@ -20,7 +20,7 @@ This repository will house all my submissions, assignments and any related code 
 
 ---
 
-2. Course 2: [Improving Deep Neural Networks](Improving-Deep-Neural-Networks)
+2. Course 2: **[Improving Deep Neural Networks](Improving-Deep-Neural-Networks)**
    - [Week 1](Improving-Deep-Neural-Networks/Week-1)
    - [Week 2](Improving-Deep-Neural-Networks/Week-2)
    - [Week 3](Improving-Deep-Neural-Networks/Week-3)
@@ -28,7 +28,7 @@ This repository will house all my submissions, assignments and any related code 
 
 ---
 
-3. Course 3: [Structuring Machine Learning Projects](Structuring-Machine-Learning-Projects)
+3. Course 3: **[Structuring Machine Learning Projects](Structuring-Machine-Learning-Projects)**
 
    	- No programming assignments.
 
@@ -36,8 +36,9 @@ This repository will house all my submissions, assignments and any related code 
 
 ---
 
-4. Course 4: [Convolutional Neural Networks](Convolutional-Neural-Networks)
+4. Course 4: **[Convolutional Neural Networks](Convolutional-Neural-Networks)**
    - [Week 1](Convolutional-Neural-Networks/Week-1)
    - [Week 2](Convolutional-Neural-Networks/Week-2)
+   - [Week 3](Convolutional-Neural-Networks/Week-3)
 
 ---
