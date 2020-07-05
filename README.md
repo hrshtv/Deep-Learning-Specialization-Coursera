@@ -40,5 +40,6 @@ This repository will house all my submissions, assignments and any related code 
    - [Week 1](Convolutional-Neural-Networks/Week-1)
    - [Week 2](Convolutional-Neural-Networks/Week-2)
    - [Week 3](Convolutional-Neural-Networks/Week-3)
+   - [Week 4](Convolutional-Neural-Networks/Week-4)
 
 ---
