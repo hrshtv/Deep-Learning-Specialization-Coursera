@@ -44,3 +44,9 @@ This repository will house all my submissions, assignments and any related code 
    - [Certificate](Convolutional-Neural-Networks/Certificate.pdf)
 
 ---
+
+5. Course 5: **[Sequence Models](Sequence-Models)**
+   - [Week 1](Sequence-Models/Week-1)
+
+---
+
