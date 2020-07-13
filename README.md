@@ -47,6 +47,7 @@ This repository will house all my submissions, assignments and any related code 
 
 5. Course 5: **[Sequence Models](Sequence-Models)**
    - [Week 1](Sequence-Models/Week-1)
+   - [Week 2](Sequence-Models/Week-2)
 
 ---
 
