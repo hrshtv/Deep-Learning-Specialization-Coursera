@@ -1,4 +1,4 @@
-# Deep Learning Specialization
+<h1 align=center>Deep Learning Specialization</h1>
 
 | Offered by 	|           [deeplearning.ai](https://www.deeplearning.ai/)          	|
 |:----------:	|:------------------------------------------------------------------:	|
@@ -7,7 +7,9 @@
 
 ---
 
-This repository will house all my submissions, assignments and any related code for this course.
+This repository will house all my submissions, assignments and any related code for this course.  
+
+I have completed the 5-course specialization and the certificate for the same can be found **[here.](Certificate.pdf)**
 
 ---
 
