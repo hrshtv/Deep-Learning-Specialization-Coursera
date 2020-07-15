@@ -1,15 +1,13 @@
 <h1 align=center>Deep Learning Specialization</h1>
 
-| Offered by 	|           [deeplearning.ai](https://www.deeplearning.ai/)          	|
-|:----------:	|:------------------------------------------------------------------:	|
-| Instructor 	|      [Andrew Ng](https://www.coursera.org/instructor/andrewng)     	|
-|  Platform  	| [Coursera](https://www.coursera.org/specializations/deep-learning) 	|
-
----
-
+<p align=center>
+	<a href="https://www.deeplearning.ai/"><img src="https://img.shields.io/badge/Offered%20By-deeplearning.ai-2a73cc?style=for-the-badge"></a>
+	<a href="https://www.coursera.org/instructor/andrewng"><img src="https://img.shields.io/badge/Instructor-Andrew%20Ng-2a73cc?style=for-the-badge"></a>
+	<a href="https://www.coursera.org/specializations/deep-learning"><img src="https://img.shields.io/badge/Platform-Coursera-2a73cc?style=for-the-badge&logo=coursera&logoColor=white"></a>
+</p>
 This repository will house all my submissions, assignments and any related code for this course.    
 
-Each course folder has a separate README file containing the links to some popular papers related to the content taught in the courses.   
+Each course folder has a separate README file containing the links to some popular papers related to the content taught in the courses.    
 
 I have completed the 5-course specialization and the certificate for the same can be found **[here.](Certificate.pdf)**
 
