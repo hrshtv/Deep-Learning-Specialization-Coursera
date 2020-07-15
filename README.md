@@ -7,7 +7,9 @@
 
 ---
 
-This repository will house all my submissions, assignments and any related code for this course.  
+This repository will house all my submissions, assignments and any related code for this course.    
+
+Each course folder has a separate README file containing the links to some popular papers related to the content taught in the courses.   
 
 I have completed the 5-course specialization and the certificate for the same can be found **[here.](Certificate.pdf)**
 
